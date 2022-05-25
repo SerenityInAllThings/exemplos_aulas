@@ -11,7 +11,12 @@ const minhaSegundaFuncao = () => {
 };
 
 const minhaTerceiraFuncao = () => {
+  throw "meu erro custom";
   console.log("oi");
 };
 
-minhaFuncaoInicial();
+try {
+  minhaFuncaoInicial();
+} catch (err) {
+  console.error(err);
+}
