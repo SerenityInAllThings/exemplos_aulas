@@ -1,0 +1,19 @@
+{
+  "name": "exemplos_aulas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HandlingErrors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://SerenityInAllThings@github.com/SerenityInAllThings/exemplos_aulas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerenityInAllThings/exemplos_aulas/issues"
+  },
+  "homepage": "https://github.com/SerenityInAllThings/exemplos_aulas#readme"
+}
